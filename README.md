@@ -2,7 +2,7 @@
 
 java 8
 
-API выполнено на Spring Boot
+REST API выполнено на Spring Boot
 
 формат JSON
 
